@@ -1,5 +1,5 @@
 {
-  "name": "UNIV.PairExercise.ContactList",
+  "name": "Contact-List",
   "version": "1.0.0",
   "description": "A tutorial to learn the basics of AJAX requests in React.",
   "main": "index.js",
